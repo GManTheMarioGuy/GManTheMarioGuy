@@ -1,5 +1,5 @@
 # I got logged out my old account uuphoria :(
-All my new projects will be on here and uuphoria will be fully unused.
+All my new projects and maybe archived projects will be on here and uuphoria will be fully unused.
 
 ###
 
