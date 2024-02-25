@@ -10,6 +10,10 @@ hoovy tf2 dance
 
 
 
+
+# random stuff im intrested in
+hazbin hotel enjoyer here ![](https://media1.tenor.com/m/gKbGiU0pB-EAAAAC/hazbin-hotel-lucifer-morningstar.gif)
+
 # programming stuff
 ###
 
