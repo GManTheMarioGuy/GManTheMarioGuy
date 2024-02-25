@@ -2,14 +2,11 @@
 All my new projects and maybe archived projects will be on here and uuphoria will be fully unused.
 
 doom 1993 enjoyer :suspect:
-
+and hazbin hotel enjoyer
 
 # epic tf2
 hoovy tf2 dance
 ![](https://c.tenor.com/2I0e8Wused8AAAAd/tenor.gif)
-
-
-
 
 # random stuff im intrested in
 hazbin hotel enjoyer here ![](https://media1.tenor.com/m/gKbGiU0pB-EAAAAC/hazbin-hotel-lucifer-morningstar.gif)
