@@ -8,8 +8,6 @@ and hazbin hotel enjoyer
 hoovy tf2 dance
 ![](https://c.tenor.com/2I0e8Wused8AAAAd/tenor.gif)
 
-# random stuff im intrested in
-hazbin hotel enjoyer here ![](https://media1.tenor.com/m/gKbGiU0pB-EAAAAC/hazbin-hotel-lucifer-morningstar.gif)
 
 # programming stuff
 ###
