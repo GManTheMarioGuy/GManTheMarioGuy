@@ -2,7 +2,7 @@
 All my new projects and maybe archived projects will be on here and uuphoria will be fully unused.
 
 doom 1993 enjoyer :suspect:
-and hazbin hotel enjoyer
+and mainly a meme enjoyer :trollface:
 
 # epic tf2
 hoovy tf2 dance
