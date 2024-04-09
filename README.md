@@ -9,7 +9,7 @@ hoovy tf2 dance
 ![](https://c.tenor.com/2I0e8Wused8AAAAd/tenor.gif)
 
 
-# programming languages I can do some basic or main coding in
+# Programming languages that I can do some basic or main coding in
 ###
 
 <div align="left">
