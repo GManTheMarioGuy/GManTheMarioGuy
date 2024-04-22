@@ -1,4 +1,4 @@
-# I got logged out my old account uuphoria :(
+# I got locked out of my old account uuphoria :(
 All my new projects and maybe archived projects will be on here and uuphoria will be fully unused.
 
 doom 1993 enjoyer :suspect:
