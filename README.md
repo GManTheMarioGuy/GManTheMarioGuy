@@ -26,5 +26,5 @@ hoovy tf2 dance
 
 
 # My Passion Projects
-# sm64jsarchive (sm64js remake project github at https://github.com/sm64jsarchived/sm64jsarchived) 
-# SM64M (sm64ex-coop remake project github at https://github.com/coop-enhanced/sm64m) 
+sm64jsarchive (sm64js remake project github at https://github.com/uuphoria2/sm64jsarchive) 
+SM64M (sm64ex-coop remake project github at https://github.com/coop-enhanced/sm64m) 
