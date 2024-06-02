@@ -24,7 +24,7 @@ hoovy tf2 dance
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/lua/lua-original.svg" height="50" width="42"  alt="lua" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" height="50" width="42"  alt="python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" height="30" width="42"  alt="C-Sharp" />
-##
+
 
 # My Passion Projects
 sm64jsarchive (sm64js remake project github at a private repo)
