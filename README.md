@@ -8,35 +8,6 @@ and mainly a meme enjoyer :trollface:
 hoovy tf2 dance
 ![](https://c.tenor.com/2I0e8Wused8AAAAd/tenor.gif)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" height="30" width="42"  alt="javascript" />
   <div align="left">
