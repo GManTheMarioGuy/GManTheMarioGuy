@@ -2,7 +2,9 @@
 All my new projects and maybe archived projects will be on here and the old uuphoria account will be fully unused.
 
 doom 1993 enjoyer :suspect:
-and mainly a meme enjoyer :trollface:
+and meme enjoyer :trollface:
+
+also tf2 is very epic (yes)
 
 # epic tf2
 hoovy tf2 dance
@@ -20,6 +22,11 @@ hoovy tf2 dance
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" height="50" width="42"  alt="python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" height="30" width="42"  alt="C-Sharp" />
 
+[![uuphoria2's github stats](https://github-readme-stats.vercel.app/api?username=uuphoria2&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=uuphoria2" height="150" alt="languages graph"  />
+</div>
+</a>
 
 # My Passion Projects
 sm64jsarchive (sm64js remake project github at a private repo)
