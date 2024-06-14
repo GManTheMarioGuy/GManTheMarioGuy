@@ -27,6 +27,5 @@ hoovy tf2 dance
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=uuphoria2" height="150" alt="languages graph"  />
 </div>
 
-# My Passion Projects
-sm64jsarchive (sm64js remake project github at a private repo)
-SM64M (sm64ex-coop remake project github at https://github.com/coop-enhanced/sm64m) 
+# My Passion Project(s)
+sm64jsarchive (sm64jsarchive github code repo page is at an private repo)
