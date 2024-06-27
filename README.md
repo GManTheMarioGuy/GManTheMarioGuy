@@ -1,7 +1,6 @@
-# I got locked out of my old account uuphoria :(
-All my new projects and maybe archived projects will be on here and the old uuphoria account will be fully unused.
+# Hello! Im uuphoria2 (aka GMannTheSFMGuy or simply GMann)
 
-doom 1993 enjoyer :suspect:
+im a doom 1993 enjoyer :suspect:
 and meme enjoyer :trollface:
 
 also tf2 is very epic (yes)
