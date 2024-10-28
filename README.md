@@ -26,7 +26,7 @@ hoovy tf2 dance
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" height="30" width="42" alt="C#" />
   </a>
-  <a href="https://en.cppreference.com/w/" target="_blank">
+  <a href="https://devdocs.io/c/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" height="30" width="42" alt="C" />
   </a>
 </div>
