@@ -1,13 +1,8 @@
-# Hello! Im Uuphoria2 (aka GMannTheSFMGuy or simply GMann)
+## Hello! Im uuphoria2! (aka GManTheMarioGuy)
 
 im a doom 1993 enjoyer :suspect:
 and meme enjoyer :trollface:
-
-also tf2 is very epic (yes)
-
-# epic tf2
-hoovy tf2 dance
-![](https://c.tenor.com/2I0e8Wused8AAAAd/tenor.gif)
+and im DEFINITELY a tf2 enjoyer
 
 # 
 <div align="left">
