@@ -7,7 +7,7 @@ and im DEFINITELY a tf2 enjoyer
 ##
 my old account was simply named "uuphoria" (then i lost access to it and it doesnt have an email linked to it lmao)
 
-# im also good at html :) (kinda decent at C++)
+## im also good at html :) (kinda decent at C++)
 
 ## some other languages im good at
 <div align="left">
