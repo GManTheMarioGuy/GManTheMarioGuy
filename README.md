@@ -7,7 +7,7 @@ and im DEFINITELY a tf2 enjoyer
 ##
 my old account was simply named "uuphoria" (then i lost access to it and it doesnt have an email linked to it lmao)
 
-# 
+## some languages im decent in
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript" />
