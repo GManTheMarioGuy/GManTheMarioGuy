@@ -4,6 +4,9 @@ im a doom 1993 enjoyer :suspect:
 and meme enjoyer :trollface:
 and im DEFINITELY a tf2 enjoyer
 
+##
+my old account was simply named "uuphoria" (then i lost access to it and it doesnt have an email linked to it lmao)
+
 # 
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
