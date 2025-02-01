@@ -1,4 +1,4 @@
-## Hello! Im uuphoria2! (aka GManTheMarioGuy)
+## Hello! Im GManTheMarioGuy!
 
 im a doom 1993 enjoyer :suspect:
 and meme enjoyer :trollface:
