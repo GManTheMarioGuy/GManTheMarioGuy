@@ -23,4 +23,4 @@ my old account was simply named "uuphoria" (then i lost access to it and it does
 </div>
 
 #
-[![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/GManTheMarioGuy)
+[![Stats](https://github-readme-stats.vercel.app/api?username=GManTheMarioGuy)](https://github.com/GManTheMarioGuy)
