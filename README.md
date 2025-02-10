@@ -4,7 +4,7 @@ im a doom 1993 enjoyer :suspect:
 and meme enjoyer :trollface:
 and im DEFINITELY a tf2 enjoyer
 
-my youtube: https://www.youtube.com/@GManTheMarioGuy
+my youtube lol: https://www.youtube.com/@GManTheMarioGuy
 
 ##
 my old account was simply named "uuphoria" (then i lost access to it and it doesnt have an email linked to it lol)
