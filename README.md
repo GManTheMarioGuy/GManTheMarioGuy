@@ -9,6 +9,8 @@ my youtube lol: https://www.youtube.com/@GManTheMarioGuy
 ##
 my old account was simply named "uuphoria" (then i lost access to it and it doesnt have an email linked to it lol)
 
+check out my site: https://gmanthemarioguy.is-a.dev
+
 ## im also good at html
 
 ## some other languages im good at
