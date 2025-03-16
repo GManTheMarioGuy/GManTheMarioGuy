@@ -1,17 +1,11 @@
 ## Hello! Im GManTheMarioGuy!
 
-im a doom 1993 enjoyer :suspect:
-and meme enjoyer :trollface:
-and im DEFINITELY a tf2 enjoyer
+Im the creator of [sm64jsarchive](https://sm64jsarchive.com)
 
-my youtube lol: https://www.youtube.com/@GManTheMarioGuy
+My old account was uuphoria.
 
-##
-my old account was simply named "uuphoria" (then i lost access to it and it doesnt have an email linked to it lol)
+I like tf2
 
-## im also good at html
-
-## some other languages im good at
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript" />
