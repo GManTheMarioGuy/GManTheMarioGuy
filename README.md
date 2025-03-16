@@ -18,5 +18,7 @@ I like tf2
   </a>
 </div>
 
+Im also good at HTML
+
 #
 [![Stats](https://github-readme-stats.vercel.app/api?username=GManTheMarioGuy)](https://github.com/GManTheMarioGuy)
