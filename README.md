@@ -20,5 +20,4 @@ I like tf2
 
 Im also good at HTML
 
-#
 [![Stats](https://github-readme-stats.vercel.app/api?username=GManTheMarioGuy)](https://github.com/GManTheMarioGuy)
