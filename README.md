@@ -1,4 +1,4 @@
-## Hello! Im GManTheMarioGuy!
+## Hello!
 
 Im the creator of [sm64jsarchive](https://sm64jsarchive.com)
 
